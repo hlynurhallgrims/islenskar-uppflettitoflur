@@ -1,100 +1,100 @@
-"numer";"stadur"
-"0000";"Reykjavík"
-"1000";"Kópavogur"
-"1100";"Seltjarnarnes"
-"1300";"Garðabær"
-"1400";"Hafnarfjörður"
-"2000";"Reykjanesbær"
-"2300";"Grindavíkurbær"
-"3000";"Akranes"
-"3714";"Snæfellsbær"
-"4100";"Bolungarvík"
-"4200";"Ísafjarðarbær"
-"5200";"Sveitarfélagið Skagafjörður"
-"6000";"Akureyri"
-"6100";"Norðurþing"
-"6250";"Fjallabyggð"
-"6400";"Dalvíkurbyggð"
-"7000";"Seyðisfjörður"
-"7300";"Fjarðabyggð"
-"8000";"Vestmannaeyjar"
-"8200";"Sveitarfélagið Árborg"
-"1600";"Kjósasýsla"
-"1603";"Sveitarfélagið Álftanes"
-"1604";"Mosfellsbær"
-"1606";"Kjósahreppur"
-"2500";"Gullbringusýsla"
-"2503";"Sandgerði"
-"2504";"Sveitarfélagið Garður"
-"2506";"Sveitarfélagið Vogar"
-"3500";"Borgarfjarðarsýsla"
-"3506";"Skorradalshreppur"
-"3511";"Hvalfjarðarsveit"
-"3600";"Mýrasýsla"
-"3609";"Borgarbyggð"
-"3700";"Snæfellsnessýsla"
-"3709";"Grundarfjarðarbær"
-"3710";"Helgafellssveit"
-"3711";"Stykkishólmur"
-"3713";"Eyja-og Miklaholtshreppur"
-"3800";"Dalasýsla"
-"3811";"Dalabyggð"
-"4500";"A-Barðastrandarsýsla"
-"4502";"Reykhólahreppur"
-"4600";"V-Barðastrandarsýsla"
-"4604";"Tálknafjarðarhreppur"
-"4607";"Vesturbyggð"
-"4700";"V-Ísafjarðarsýsla"
-"4800";"N-Ísafjarðarsýsla"
-"4803";"Súðavíkurhreppur"
-"4900";"Strandasýsla"
-"4901";"Árneshreppur"
-"4902";"Kaldrananeshreppur"
-"4911";"Strandabyggð"
-"5500";"V-Húnavatnssýsla"
-"5508";"Húnaþing vestra"
-"5600";"A-Húnavatnssýsla"
-"5604";"Blönduós"
-"5609";"Sveitarfélagið Skagaströnd"
-"5611";"Skagabyggð"
-"5612";"Húnavatnshreppur"
-"5700";"Skagafjarðarsýsla"
-"5706";"Akrahreppur"
-"6500";"Eyjafjarðarsýsla"
-"6513";"Eyjafjarðarsveit"
-"6515";"Hörgársveit"
-"6600";"S-Þingeyjarsýsla"
-"6601";"Svalbarðsstrandarhreppur"
-"6602";"Grýtubakkahreppur"
-"6607";"Skútustaðahreppur"
-"6609";"Aðaldælahreppur"
-"6611";"Tjörneshreppur"
-"6612";"Þingeyjarsveit"
-"6700";"N-Þingeyjarsýsla"
-"6706";"Svalbarðshreppur"
-"6709";"Langanesbyggð"
-"7500";"N-Múlasýsla"
-"7502";"Vopnafjarðarhreppur"
-"7505";"Fljótsdalshreppur"
-"7509";"Borgarfjarðarhreppur"
-"7600";"S-Múlasýsla"
-"7613";"Breiðdalshreppur"
-"7617";"Djúpavogshreppur"
-"7620";"Fljótsdalshérað"
-"7700";"A-Skaftafellssýsla"
-"7708";"Sveitarfélagið Hornafjörður"
-"8500";"V-Skaftafellssýsla"
-"8508";"Mýrdalshreppur"
-"8509";"Skaftárhreppur"
-"8600";"Rangárvallasýsla"
-"8610";"Áshreppur"
-"8613";"Rangárþing eystra"
-"8614";"Rangárþing ytra"
-"8700";"Árnessýsla"
-"8710";"Hrunamannahreppur"
-"8716";"Hveragerði"
-"8717";"Sveitarfélagið Ölfus"
-"8719";"Grímsnes-og Grafningshreppur"
-"8720";"Skeiða-og Gnúpverjahreppur"
-"8721";"Bláskógabyggð"
-"8722";"Flóahreppur"
+Tákntala,Sveitarfélag,Kjördæmi,Flokkun,Á kjördæmalista
+0000,Reykjavík,Reykjavík (N & S),Kaupstaður,1
+1000,Kópavogur,Suðvesturkjördæmi,Kaupstaður,1
+1100,Seltjarnarnes,Suðvesturkjördæmi,Kaupstaður,1
+1300,Garðabær,Suðvesturkjördæmi,Kaupstaður,1
+1400,Hafnarfjörður,Suðvesturkjördæmi,Kaupstaður,1
+2000,Reykjanesbær,Suðurkjördæmi,Kaupstaður,1
+2300,Grindavíkurbær,Suðurkjördæmi,Kaupstaður,1
+3000,Akranes,Norðvesturkjördæmi,Kaupstaður,1
+3714,Snæfellsbær,Norðvesturkjördæmi,Kaupstaður,1
+4100,Bolungarvík,Norðvesturkjördæmi,Kaupstaður,1
+4200,Ísafjarðarbær,Norðvesturkjördæmi,Kaupstaður,1
+5200,Sveitarfélagið Skagafjörður,Norðvesturkjördæmi,Kaupstaður,1
+6000,Akureyri,Norðausturkjördæmi,Kaupstaður,1
+6100,Norðurþing,Norðausturkjördæmi,Kaupstaður,1
+6250,Fjallabyggð,Norðausturkjördæmi,Kaupstaður,1
+6400,Dalvíkurbyggð,Norðausturkjördæmi,Kaupstaður,1
+7000,Seyðisfjörður,Norðausturkjördæmi,Kaupstaður,1
+7300,Fjarðabyggð,Norðausturkjördæmi,Kaupstaður,1
+8000,Vestmannaeyjar,Suðurkjördæmi,Kaupstaður,1
+8200,Sveitarfélagið Árborg,Suðurkjördæmi,Kaupstaður,1
+1600,Kjósarsýsla,,Sýsla,0
+1603,Sveitarfélagið Álftanes,,Bær,0
+1604,Mosfellsbær,Suðvesturkjördæmi,Bær,1
+1606,Kjósarhreppur,Suðvesturkjördæmi,Hreppur,1
+2500,Gullbringusýsla,,Sýsla,0
+2503,Sandgerði,Suðurkjördæmi,Bær,1
+2504,Sveitarfélagið Garður,Suðurkjördæmi,Bær,1
+2506,Sveitarfélagið Vogar,Suðurkjördæmi,Bær,1
+3500,Borgarfjarðarsýsla,,Sýsla,0
+3506,Skorradalshreppur,Norðvesturkjördæmi,Hreppur,1
+3511,Hvalfjarðarsveit,Norðvesturkjördæmi,Bær,1
+3600,Mýrasýsla,,Sýsla,0
+3609,Borgarbyggð,Norðvesturkjördæmi,Bær,1
+3700,Snæfellsnessýsla,,Sýsla,0
+3709,Grundarfjarðarbær,Norðvesturkjördæmi,Bær,1
+3710,Helgafellssveit,Norðvesturkjördæmi,Bær,1
+3711,Stykkishólmur,Norðvesturkjördæmi,Bær,1
+3713,Eyja- og Miklaholtshreppur,Norðvesturkjördæmi,Hreppur,1
+3800,Dalasýsla,,Sýsla,0
+3811,Dalabyggð,Norðvesturkjördæmi,Bær,1
+4500,A-Barðastrandarsýsla,,Sýsla,0
+4502,Reykhólahreppur,Norðvesturkjördæmi,Hreppur,1
+4600,V-Barðastrandarsýsla,,Sýsla,0
+4604,Tálknafjarðarhreppur,Norðvesturkjördæmi,Hreppur,1
+4607,Vesturbyggð,Norðvesturkjördæmi,Bær,1
+4700,V-Ísafjarðarsýsla,,Sýsla,0
+4800,N-Ísafjarðarsýsla,,Sýsla,0
+4803,Súðavíkurhreppur,Norðvesturkjördæmi,Hreppur,1
+4900,Strandasýsla,,Sýsla,0
+4901,Árneshreppur,Norðvesturkjördæmi,Hreppur,1
+4902,Kaldrananeshreppur,Norðvesturkjördæmi,Hreppur,1
+4911,Strandabyggð,Norðvesturkjördæmi,Bær,1
+5500,V-Húnavatnssýsla,,Sýsla,0
+5508,Húnaþing vestra,Norðvesturkjördæmi,Bær,1
+5600,A-Húnavatnssýsla,,Sýsla,0
+5604,Blönduós,Norðvesturkjördæmi,Bær,1
+5609,Sveitarfélagið Skagaströnd,Norðvesturkjördæmi,Bær,1
+5611,Skagabyggð,Norðvesturkjördæmi,Bær,1
+5612,Húnavatnshreppur,Norðvesturkjördæmi,Hreppur,1
+5700,Skagafjarðarsýsla,,Sýsla,0
+5706,Akrahreppur,Norðvesturkjördæmi,Hreppur,1
+6500,Eyjafjarðarsýsla,,Sýsla,0
+6513,Eyjafjarðarsveit,Norðausturkjördæmi,Bær,1
+6515,Hörgársveit,Norðausturkjördæmi,Bær,1
+6600,S-Þingeyjarsýsla,,Sýsla,0
+6601,Svalbarðsstrandarhreppur,Norðausturkjördæmi,Hreppur,1
+6602,Grýtubakkahreppur,Norðausturkjördæmi,Hreppur,1
+6607,Skútustaðahreppur,Norðausturkjördæmi,Hreppur,1
+6609,Aðaldælahreppur,,Hreppur,0
+6611,Tjörneshreppur,Norðausturkjördæmi,Hreppur,1
+6612,Þingeyjarsveit,Norðausturkjördæmi,Bær,1
+6700,N-Þingeyjarsýsla,,Sýsla,0
+6706,Svalbarðshreppur,Norðausturkjördæmi,Hreppur,1
+6709,Langanesbyggð,Norðausturkjördæmi,Bær,1
+7500,N-Múlasýsla,,Sýsla,0
+7502,Vopnafjarðarhreppur,Norðausturkjördæmi,Hreppur,1
+7505,Fljótsdalshreppur,Norðausturkjördæmi,Hreppur,1
+7509,Borgarfjarðarhreppur,Norðausturkjördæmi,Hreppur,1
+7600,S-Múlasýsla,,Sýsla,0
+7613,Breiðdalshreppur,Norðausturkjördæmi,Hreppur,1
+7617,Djúpavogshreppur,Norðausturkjördæmi,Hreppur,1
+7620,Fljótsdalshérað,Norðausturkjördæmi,Bær,1
+7700,A-Skaftafellssýsla,,Sýsla,0
+7708,Sveitarfélagið Hornafjörður,Suðurkjördæmi,Bær,1
+8500,V-Skaftafellssýsla,,Sýsla,0
+8508,Mýrdalshreppur,Suðurkjördæmi,Hreppur,1
+8509,Skaftárhreppur,Suðurkjördæmi,Hreppur,1
+8600,Rangárvallasýsla,,Sýsla,0
+8610,Ásahreppur,Suðurkjördæmi,Hreppur,1
+8613,Rangárþing eystra,Suðurkjördæmi,Bær,1
+8614,Rangárþing ytra,Suðurkjördæmi,Bær,1
+8700,Árnessýsla,,Sýsla,0
+8710,Hrunamannahreppur,Suðurkjördæmi,Hreppur,1
+8716,Hveragerði,Suðurkjördæmi,Bær,1
+8717,Sveitarfélagið Ölfus,Suðurkjördæmi,Bær,1
+8719,Grímsnes- og Grafningshreppur,Suðurkjördæmi,Hreppur,1
+8720,Skeiða- og Gnúpverjahreppur,Suðurkjördæmi,Hreppur,1
+8721,Bláskógabyggð,Suðurkjördæmi,Bær,1
+8722,Flóahreppur,Suðurkjördæmi,Hreppur,1
